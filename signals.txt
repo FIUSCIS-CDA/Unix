@@ -1,0 +1,9 @@
+SIGNAL					DESCRIPTION
+------------------------------------------------------------------------------------
+<CTRL-C>				Break
+<CTRL-H>				Backspace
+<CTRL-I>				Tab
+<CTRL-K>				Kill
+<CTRL-M>				Return
+<CTRL-Q>				Resume
+<CTRL-S>				Stop
