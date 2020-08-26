@@ -1,0 +1,11 @@
+CHARACTER				DESCRIPTION
+------------------------------------------------------------------------------------
+<					Redirect input
+>					Redirect output
+|					Pipeline
+;					Separate multiple commands on single line
+&					Run in the background
+\a					Bell
+\b					Backspace
+\n					Newline
+\t					Tab
