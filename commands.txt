@@ -1,0 +1,46 @@
+Note: Arguments and flags for these commands
+
+COMMAND					DESCRIPTION
+------------------------------------------------------------------------------------
+at					Run command at a specific time
+cal					Calendar for a particular year
+calendar				Important events for today
+cat					Catenate (use <CTRL-S>, <CTRL-Q> to advance)
+chgrp					Change group associated with file/folder
+chmod					Change permissions on file/folder
+cmp					Find the first difference between two files
+cp					Copy
+date					System date/time info
+diff					Find all differences between two files
+du					Monitor disk usage
+echo					Display text in the terminal
+ed					Simple editor; "lightweight vim"
+export					Set environment variable
+file					Attempt to gather file info based on contents
+grep					Search for a pattern
+kill					Kill a process
+ls					List files
+man					Manual for a command
+mcrypt					Encrypt text
+mdecrypt				Decrypt text
+mv					Move
+nice					Lower priority of a process
+od					Octal dump of bytes of file
+nohup					Continue running a program after logging out
+passwd					Change password
+pg					Display file (use <RETURN> to advance)
+printenv				Print environment variable
+ps					Display processes in sesion
+pwd					Print working directory
+rm					Remove
+sort					Sort lines of input
+tail					Display the end of a file
+top					Interactively display running processes
+vim					Vim text editor
+wait					Discover background processes
+wc					Word count
+who					List of users with active sessions
+who am i				Current session info
+whoami					Username
+write					Send message to another session
+				
