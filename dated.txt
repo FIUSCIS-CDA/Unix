@@ -1,0 +1,7 @@
+These are possibly out-dated commands from the reading that seem to be non-functional in our environment
+
+COMMAND					PIKE/KERNIGHAN PAGE #
+------------------------------------------------------------------------------------
+news					10
+learn					11
+pr					14
