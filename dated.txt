@@ -5,3 +5,19 @@ COMMAND					PIKE/KERNIGHAN PAGE #
 news					10
 learn					11
 pr					14
+od (works on files, not directories)	59
+
+
+FOLDER					PIKE/KERNIGHAN PAGE #
+------------------------------------------------------------------------------------
+/etc/getty				63
+/etc/rc					63
+/etc/motd				65
+/etc/mount				65
+/usr/adm				65
+/usr/dict				65
+/usr/mdec				65
+/usr/news				65
+/usr/pub				65
+/usr/spool				65
+/usr/tmp				65
