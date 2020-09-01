@@ -11,6 +11,7 @@ chmod					Change permissions on file/folder
 cmp					Find the first difference between two files
 cp					Copy
 date					System date/time info
+df					List all files systems and properties
 diff					Find all differences between two files
 du					Monitor disk usage
 echo					Display text in the terminal
@@ -19,6 +20,7 @@ export					Set environment variable
 file					Attempt to gather file info based on contents
 grep					Search for a pattern
 kill					Kill a process
+ln					Link to a file
 ls					List files
 man					Manual for a command
 mcrypt					Encrypt text
@@ -35,6 +37,7 @@ pwd					Print working directory
 rm					Remove
 sort					Sort lines of input
 tail					Display the end of a file
+time					Display execution time of a program (order: elapsed, program, kernel)
 top					Interactively display running processes
 vim					Vim text editor
 wait					Discover background processes
