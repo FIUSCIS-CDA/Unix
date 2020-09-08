@@ -1,5 +1,5 @@
 CHARACTER				DESCRIPTION
-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
 <					Redirect input
 >					Redirect output
 |					Pipeline
@@ -9,3 +9,10 @@ CHARACTER				DESCRIPTION
 \b					Backspace
 \n					Newline
 \t					Tab
+*					Match 0 or more characters
+?					Match exactly one character
+\					Escape (literally interpret next character), or add a newline
+'					Literally interpret string
+"					Almost literally interpret, except $ (and a few others)
+#					Comment
+$					Environment variable or argument number

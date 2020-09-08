@@ -6,6 +6,8 @@ news					10
 learn					11
 pr					14
 od (works on files, not directories)	59
+2,3,4,5,etc.				85
+pick					87
 
 
 FOLDER					PIKE/KERNIGHAN PAGE #
@@ -21,3 +23,10 @@ FOLDER					PIKE/KERNIGHAN PAGE #
 /usr/pub				65
 /usr/spool				65
 /usr/tmp				65
+
+
+MISC					PIKE/KERNIGHAN PAGE #
+-----------------------------------------------------------------------------------
+Executable name no longer works	in cwd	81
+Need to add to PATH
+

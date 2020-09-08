@@ -35,10 +35,13 @@ printenv				Print environment variable
 ps					Display processes in sesion
 pwd					Print working directory
 rm					Remove
+sleep					Wait for a certain amount of time (s)
 sort					Sort lines of input
 tail					Display the end of a file
+tee					Save input to a file and send to stdout (useful in pipelines)
 time					Display execution time of a program (order: elapsed, program, kernel)
 top					Interactively display running processes
+touch					Create empty file
 vim					Vim text editor
 wait					Discover background processes
 wc					Word count
