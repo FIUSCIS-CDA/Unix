@@ -16,3 +16,4 @@ CHARACTER				DESCRIPTION
 "					Almost literally interpret, except $ (and a few others)
 #					Comment
 $					Environment variable or argument number
+`					Use the output of a command within another command
