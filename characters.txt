@@ -2,6 +2,8 @@ CHARACTER				DESCRIPTION
 -------------------------------------------------------------------------------------------------------
 <					Redirect input
 >					Redirect output
+>>					Append to output
+<<					"Here" format
 |					Pipeline
 ;					Separate multiple commands on single line
 &					Run in the background
