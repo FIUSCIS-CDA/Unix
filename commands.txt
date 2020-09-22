@@ -9,6 +9,7 @@ cat					Catenate (use <CTRL-S>, <CTRL-Q> to advance)
 chgrp					Change group associated with file/folder
 chmod					Change permissions on file/folder
 cmp					Find the first difference between two files
+comm					Find lines present in both/one files of sorted data
 cp					Copy
 date					System date/time info
 df					List all files systems and properties
@@ -16,8 +17,10 @@ diff					Find all differences between two files
 du					Monitor disk usage
 echo					Display text in the terminal
 ed					Simple editor; "lightweight vim"
+egrep					Search for multiple regular expressions in parallel
 export					Set environment variable
 file					Attempt to gather file info based on contents
+fgrep					Search for multiple literal patterns in parallel
 grep					Search for a pattern
 kill					Kill a process
 ln					Link to a file
@@ -35,6 +38,7 @@ printenv				Print environment variable
 ps					Display processes in sesion
 pwd					Print working directory
 rm					Remove
+sed					Stream editor
 sleep					Wait for a certain amount of time (s)
 sort					Sort lines of input
 tail					Display the end of a file
@@ -42,6 +46,8 @@ tee					Save input to a file and send to stdout (useful in pipelines)
 time					Display execution time of a program (order: elapsed, program, kernel)
 top					Interactively display running processes
 touch					Create empty file
+tr					Translate one pattern to another
+uniq					Remove duplicates
 vim					Vim text editor
 wait					Discover background processes
 wc					Word count
