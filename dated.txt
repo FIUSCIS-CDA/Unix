@@ -9,6 +9,7 @@ od (works on files, not directories)	59
 2,3,4,5,etc.				85
 pick					87
 set (use printenv instead)		88
++m option for sort			106
 
 FOLDER					PIKE/KERNIGHAN PAGE #
 ------------------------------------------------------------------------------------
