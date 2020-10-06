@@ -2,6 +2,8 @@ Note: Arguments and flags for these commands
 
 COMMAND					DESCRIPTION
 ------------------------------------------------------------------------------------
+awk					Scripting language, designed for field-delimited
+                                        input
 at					Run command at a specific time
 cal					Calendar for a particular year
 calendar				Important events for today
@@ -43,6 +45,7 @@ sleep					Wait for a certain amount of time (s)
 sort					Sort lines of input
 tail					Display the end of a file
 tee					Save input to a file and send to stdout (useful in pipelines)
+test					Test the exit status of a command
 time					Display execution time of a program (order: elapsed, program, kernel)
 top					Interactively display running processes
 touch					Create empty file
