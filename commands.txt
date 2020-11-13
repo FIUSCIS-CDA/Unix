@@ -7,6 +7,7 @@ awk					Scripting language, designed for field-delimited
 at					Run command at a specific time
 cal					Calendar for a particular year
 calendar				Important events for today
+case..esac				Switch block
 cat					Catenate (use <CTRL-S>, <CTRL-Q> to advance)
 chgrp					Change group associated with file/folder
 chmod					Change permissions on file/folder
@@ -22,11 +23,15 @@ ed					Simple editor; "lightweight vim"
 egrep					Search for multiple regular expressions in parallel
 export					Set environment variable
 file					Attempt to gather file info based on contents
+for do..od				Counter-controlled repetition
 fgrep					Search for multiple literal patterns in parallel
+gcc					C compiler
 grep					Search for a pattern
 kill					Kill a process
+if..fi					Conditional clause
 ln					Link to a file
 ls					List files
+make					Execute a Makefile
 man					Manual for a command
 mcrypt					Encrypt text
 mdecrypt				Decrypt text
@@ -50,10 +55,12 @@ time					Display execution time of a program (order: elapsed, program, kernel)
 top					Interactively display running processes
 touch					Create empty file
 tr					Translate one pattern to another
+trap					Actions to take upon interrupts
 uniq					Remove duplicates
 vim					Vim text editor
 wait					Discover background processes
 wc					Word count
+while do..od				Sentinel-controlled repetition
 who					List of users with active sessions
 who am i				Current session info
 whoami					Username
